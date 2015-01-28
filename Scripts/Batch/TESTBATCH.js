@@ -8,7 +8,7 @@
  */
 function testingBatches(var1, var2, var3){
 	//Implemented this function
-	var var3 = var1 + var2 + var3;
-	logDebug("Output will be: " + var3);
-	return var3;
+	var var4 = var1 + var2 + var3;
+	logDebug("Output will be: " + var4);
+	return var4;
 }
