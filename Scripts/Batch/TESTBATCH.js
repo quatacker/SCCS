@@ -12,3 +12,4 @@ function testingBatches(var1, var2, var3){
 	logDebug("Output will be: " + var3);
 	return var3;
 }
+
